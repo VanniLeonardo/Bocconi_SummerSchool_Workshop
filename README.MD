@@ -1,6 +1,6 @@
 # 🤖 Robust Computer Vision Workshop - Bocconi Summer School 2025
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VanniLeonardoBocconi_SummerSchool_Workshop/blob/main/workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VanniLeonardo/Bocconi_SummerSchool_Workshop/blob/main/workshop.ipynb)
 
 ---
 
